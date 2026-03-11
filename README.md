@@ -29,10 +29,13 @@ This project implements a Deep Learning model (CNN) capable of identifying vario
 1. **Install Dependencies:**
    ```bash
    pip install tensorflow pyqt5 opencv-python pillow
-2. **Run the application**
+2. **Give the data:**
+   
+   Create the folder `Dataset/train` , `Dataset/test` and give the data.
+
+4. **Run the application**
    ```bash
    python main.py
-3. **Usage**
-   Upload an image and see the results.
+
 
 *Progress: Successfully built a vision-based tool for intelligent transportation systems.*
